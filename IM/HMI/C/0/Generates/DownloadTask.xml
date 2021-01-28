@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DownloadTask>
+  <ProjectInfo
+    DeviceVersion="15.0.0.0"
+    CreationTime="2021-01-17 13:04:32 (UTC)"
+    Runtime="COLORADO"
+    RtProjectName="SinyalizasyonProje.PC-System_2[SIMATIC PC station - WinCC RT Advanced]"
+    RtProjectFolderName="SinyalizasyonProje.PC-System_2[SIMATIC PC station - WinCC RT Advanced]"
+    DeviceType="PC-OP"
+    DisplayOrientation="0"
+    RTReleaseNo="15.0.0.0"
+    ImageReleaseNo="15.0.0.0"
+    RTCV="15.0.0.0"
+    PRCV="15.0.0.0"
+    FirmwareFileName=""
+    RuntimeFileName=""
+    RuntimeAddonFolderName="" />
+  <FullDownload>pdata.fwc</FullDownload>
+  <FullDownload
+    type="ADMINDATA">pdata.pwx</FullDownload>
+  <FullDownload>pdata.tfz</FullDownload>
+  <FullDownload>ProjectSettings.hsf</FullDownload>
+  <License
+    type="WCRT011500">WinCC RT Advanced (128)</License>
+</DownloadTask>
